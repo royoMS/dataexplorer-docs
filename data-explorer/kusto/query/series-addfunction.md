@@ -11,7 +11,7 @@ ms.date: 10/23/2018
 ---
 # series_add()
 
-Calculates the element-wise addition of two numeric series inputs.
+Calculates the element-wise addition of two numeric series inputs .
 
 ## Syntax
 
